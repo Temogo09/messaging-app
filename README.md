@@ -34,13 +34,11 @@ Designed as a real-time communication platform for users to send, receive, and v
 ## 📸 Screenshots
 
 ### 🔐 Login Page  
-![Login Page](Screenshots/login-page.png)
+![Login Page](Screenshots/screenshot1.png)
 
 ### 💬 Messaging Interface  
-![Messaging UI](Screenshots/messaging-ui.png)
-
-### 📊 Admin Dashboard  
-![Admin Dashboard](Screenshots/admin-dashboard.png)
+![Messaging UI](Screenshots/screenshot2.png)
+![Messaging UI](Screenshots/screenshot3.png)
 
 ---
 
